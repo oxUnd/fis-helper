@@ -26,7 +26,7 @@ Helper.prototype.register = function () {
 Helper.prototype.require = function (id, opt) {
 };
 
-Helper.prototype.hacker = function (className) {
+Helper.prototype.hack = function (className) {
   if (this.hackerExists(className)) {
     this.hackers[className]();
   }

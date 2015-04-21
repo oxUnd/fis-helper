@@ -8,7 +8,7 @@
 
 ```js
 var helper = require('fis-helper');
-helper.hacker('config');
+helper.hack('config');
 ```
 
 #### fis.plugin
